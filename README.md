@@ -6,12 +6,18 @@ This project was tasked with creating and evaluating a set of quantatative metri
 
 Five major implementations were evaluated for this project, including:
 1) A Xilinx FPGA development board
+
     1a) A simple software based implementation running on the ARM cores present on the SoC
+    
     1b) A software implementation that utilizes a custom hardware-based accelerator implemented on the FPGA logic
+    
 2) A Raspberry Pi
 3) A Windows-based Desktop Computer
+
     3a) Software based implementation running on the local x86-64 CPU
+    
     3b) Software based implementation that utilizes a local GPU based DNN accelerator
+    
 
 The implementations for each platform can be found in the respective sub-folder of this project.
 
