@@ -1,0 +1,173 @@
+Tensorflow Version: 2.6.0
+Num GPUs Available:  0
+
+Beginning accuracy test.
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+313/313 - 1s - loss: 19.0738 - accuracy: 0.9725
+
+=========================Options=============================
+-max_depth                  10000
+-min_bytes                  0
+-min_peak_bytes             0
+-min_residual_bytes         0
+-min_output_bytes           0
+-min_micros                 0
+-min_accelerator_micros     0
+-min_cpu_micros             0
+-min_params                 0
+-min_float_ops              1
+-min_occurrence             0
+-step                       -1
+-order_by                   float_ops
+-account_type_regexes       .*
+-start_name_regexes         .*
+-trim_name_regexes          
+-show_name_regexes          .*
+-hide_name_regexes          
+-account_displayed_op_only  true
+-select                     float_ops
+-output                     stdout:
+
+==================Model Analysis Report======================
+
+Doc:
+op: The nodes are operation kernel type, such as MatMul, Conv2D. Graph nodes belonging to the same type are aggregated together.
+flops: Number of float operations. Note: Please read the implementation for the math behind it.
+
+Profile:
+node name | # float_ops
+MatMul                   101.63k float_ops (100.00%, 99.88%)
+BiasAdd                     74 float_ops (0.12%, 0.07%)
+Softmax                     50 float_ops (0.05%, 0.05%)
+
+======================End of Report==========================
+Number of accuracy samples collected: 100
+Average accuracy: 97.25000262260437 %
+Maximum accuracy: 97.25000262260437 %
+Standard deviation of accuracy: 0.0 %
+Number of samples within 1 standard deviation of the mean accuracy: 0
+Number of entries within 1 standard deviation of the maximum accuracy: 0
+The FLOPs is:101756
+
+Beginning performance test.
+Number of performance samples collected: 100
+Average performance: 1.4165133932787308 GFLOPS
+Maximum performance: 1.48925997195011 GFLOPS
+Standard deviation of performance: 0.07988263517078008 GFLOPS
+Number of samples within 1 standard deviation of the mean performance: 72
+Number of entries within 1 standard deviation of the maximum performance: 71
+Data structure created!
+Gathering nominal power draw
+Press enter to start nominal power draw testGathering DNN power draw
+Press enter to start DNN power draw testPerformance test ended.
+
+Number of nominal power draw samples collected: 5125
+Average nominal power draw: 40.609972097562085 W
+Maximum nominal power draw: 42.355 W
+Standard deviation of nominal power draw: 0.6567261624830754 W
+Number of samples within 1 standard deviation of the mean nominal power draw: 2766
+Number of entries within 1 standard deviation of the maximum nominal power draw: 295
+Number of DNN power draw samples collected: 3145
+Average DNN power draw: 44.82886709061967 W
+Maximum DNN power draw: 47.712 W
+Standard deviation of DNN power draw: 1.4097217577108598 W
+Number of samples within 1 standard deviation of the mean DNN power draw: 1924
+Number of entries within 1 standard deviation of the maximum DNN power draw: 245
