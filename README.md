@@ -22,8 +22,13 @@ Five major implementations were evaluated for this project, including:
 The implementations for each platform can be found in the respective sub-folder of this project.
 
 The Deliverables sub-folder contains all submissions related to this project, and includes:
+
     Project Proposal Document
+    
     Project Proposal Presentation
+    
     Final Presentation
+    
     Final Report
+    
     Metric Data Spreadsheet
